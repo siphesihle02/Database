@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\bin\Debug\timeSheets.exe.config
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\bin\Debug\timeSheets.exe
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\bin\Debug\timeSheets.pdb
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\bin\Debug\Dapper.dll
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\bin\Debug\Dapper.xml
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\obj\Debug\timeSheets.Form1.resources
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\obj\Debug\timeSheets.Properties.Resources.resources
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\obj\Debug\timeSheets.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\obj\Debug\timeSheets.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\obj\Debug\timeSheets.csproj.CopyComplete
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\obj\Debug\timeSheets.exe
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\obj\Debug\timeSheets.pdb
+C:\Users\Student\Desktop\Database\timeSheets\timeSheets\obj\Debug\timeSheets.csprojAssemblyReference.cache
